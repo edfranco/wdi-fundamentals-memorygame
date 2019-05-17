@@ -1,0 +1,26 @@
+body{
+    background-color: pink;
+    text-align: center;
+    text-transform: uppercase;
+    text-decoration: none;
+}
+
+header{
+    background-color: #F15B31;
+    color: #FFFFFF;
+    padding: 30px 20px;
+}
+
+h1{
+    font-family: "Raleway", sans-serif;
+    font-weight: 400;
+}
+
+p{
+    font-family: "Droid Serif", serif;
+}
+
+a{
+    text-decoration-line: none;
+    color: black;
+}
